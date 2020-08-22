@@ -11,3 +11,6 @@
 
 ## Dissertation guide
 * [Getting the most from Lærd Dissertation](http://dissertation.laerd.com/getting-started.php) - Lærd Dissertation was written to help you complete your dissertation from start to finish, whether you're an undergraduate, master's or doctoral student.
+
+## APA Style
+* The 6th edition of the APA style manual (American Psychological Association, 2010) states the following on the topic of reporting p-values: “When reporting p values, report exact p values (e.g., p = .031) to two or three decimal places. However, report p values less than .001 as p < .001. The tradition of reporting p values in the form p < .10, p < .05, p < .01, and so forth, was appropriate in a time when only limited tables of critical values were available.” [What a p-value tells you about statistical significance](https://www.simplypsychology.org/p-value.html)
