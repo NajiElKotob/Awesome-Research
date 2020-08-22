@@ -4,6 +4,7 @@
 * [Microsoft Academic](https://academic.microsoft.com) - academic.microsoft.com
 * [Google Scholar](https://scholar.google.com/) - scholar.google.com
 * [ScienceDirect (Elsevier)](https://www.sciencedirect.com/) - sciencedirect.com
+* [Academia](https://www.academia.edu/) - academia.edu
 
 ## The Research Onion
 * [The Layers of Research Design](https://www.academia.edu/4107831/The_Layers_of_Research_Design) (Mark Saunders and Paul Tosey)
