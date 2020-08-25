@@ -19,4 +19,5 @@
 * [GSEHD Dissertation Content & Style Guide](https://gsehd.gwu.edu/sites/default/files/documents/dissertation_content_and_style_guide.pdf) - The George Washington University
 
 ## APA Style
+* [Reporting a multiple linear regression in APA](https://www.slideshare.net/plummer48/reporting-a-multiple-linear-regression-in-apa)
 * The 6th edition of the APA style manual (American Psychological Association, 2010) states the following on the topic of reporting p-values: “When reporting p values, report exact p values (e.g., p = .031) to two or three decimal places. However, report p values less than .001 as p < .001. The tradition of reporting p values in the form p < .10, p < .05, p < .01, and so forth, was appropriate in a time when only limited tables of critical values were available.” [What a p-value tells you about statistical significance](https://www.simplypsychology.org/p-value.html)
