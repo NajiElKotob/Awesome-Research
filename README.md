@@ -17,6 +17,7 @@
 ## Dissertation guide
 * [Getting the most from Lærd Dissertation](http://dissertation.laerd.com/getting-started.php) - Lærd Dissertation was written to help you complete your dissertation from start to finish, whether you're an undergraduate, master's or doctoral student.
 * [GSEHD Dissertation Content & Style Guide](https://gsehd.gwu.edu/sites/default/files/documents/dissertation_content_and_style_guide.pdf) - The George Washington University
+* [The Structure of the Thesis or Dissertation](http://valmikiacademy.com/lessons/the-structure-of-the-thesis-or-dissertation/)
 
 ## APA Style
 * [Reporting a multiple linear regression in APA](https://www.slideshare.net/plummer48/reporting-a-multiple-linear-regression-in-apa)
