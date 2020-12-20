@@ -11,6 +11,7 @@
 
 ### Research
 * [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
+* [Research methods](https://betterthesis.dk/research-methods) - betterthesis.dk
 
 ## The Research Onion
 * [The Layers of Research Design](https://www.academia.edu/4107831/The_Layers_of_Research_Design) (Mark Saunders and Paul Tosey)
