@@ -16,6 +16,7 @@
 ### Publishing
 * [How to Publish a Research Paper](https://www.wikihow.com/Publish-a-Research-Paper)
 * [Publishing with Elsevier: step-by-step](https://www.elsevier.com/authors/submit-your-paper)
+* [SpringerOpen - Publish a journal with us](https://www.springeropen.com/about/our-publishing-partners/publish-a-journal-with-us)
 
 ## The Research Onion
 * [The Layers of Research Design](https://www.academia.edu/4107831/The_Layers_of_Research_Design) (Mark Saunders and Paul Tosey)
