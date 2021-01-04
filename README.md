@@ -13,6 +13,10 @@
 * [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
 * [Research methods](https://betterthesis.dk/research-methods) - betterthesis.dk
 
+### Publishing
+* [How to Publish a Research Paper](https://www.wikihow.com/Publish-a-Research-Paper)
+* [Publishing with Elsevier: step-by-step](https://www.elsevier.com/authors/submit-your-paper)
+
 ## The Research Onion
 * [The Layers of Research Design](https://www.academia.edu/4107831/The_Layers_of_Research_Design) (Mark Saunders and Paul Tosey)
 * [Research Onion Diagram (Interactive)](https://onion.derby.ac.uk/)
