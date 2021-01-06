@@ -8,6 +8,7 @@
 * [PQDT Open](https://pqdtopen.proquest.com/search.html) - pqdtopen.proquest.com
 * [EBSCO Open Dissertations](https://biblioboard.com/opendissertations/) - biblioboard.com
 * [EBSCO](https://www.ebsco.com/) - ebsco.com
+* [DOAJ](https://doaj.org/) - Find open access journals & articles.
 
 ### Research
 * [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
