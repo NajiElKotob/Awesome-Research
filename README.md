@@ -38,6 +38,9 @@
 * [Publishing with Elsevier: step-by-step](https://www.elsevier.com/authors/submit-your-paper)
 * [SpringerOpen - Publish a journal with us](https://www.springeropen.com/about/our-publishing-partners/publish-a-journal-with-us)
 
+### Formats and Templates
+* [Typeset](https://typeset.io/formats/) 
+
 -----
 
 ## APA Style
