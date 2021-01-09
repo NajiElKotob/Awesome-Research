@@ -8,7 +8,12 @@
 * [PQDT Open](https://pqdtopen.proquest.com/search.html) - pqdtopen.proquest.com
 * [EBSCO Open Dissertations](https://biblioboard.com/opendissertations/) - biblioboard.com
 * [EBSCO](https://www.ebsco.com/) - ebsco.com
+
+### Directories
 * [DOAJ](https://doaj.org/) - Find open access journals & articles.
+* [Journals Directory](https://www.journalsdirectory.com/)
+
+-----
 
 ## Dissertation guide
 * [Getting the most from Lærd Dissertation](http://dissertation.laerd.com/getting-started.php) - Lærd Dissertation was written to help you complete your dissertation from start to finish, whether you're an undergraduate, master's or doctoral student.
