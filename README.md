@@ -12,7 +12,7 @@
 ## Preprint
 * [Research Square](https://www.researchsquare.com/)
 
-### Directories
+## Directories
 * [DOAJ](https://doaj.org/) - Find open access journals & articles.
 * [Journals Directory](https://www.journalsdirectory.com/)
 * [Berkeley Library](https://guides.lib.berkeley.edu/) - berkeley.edu
