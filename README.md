@@ -1,6 +1,6 @@
 # Awesome Research
 
-## Scholarly literature
+## Academic Publications and Literature
 * [Microsoft Academic](https://academic.microsoft.com) - academic.microsoft.com
 * [Google Scholar](https://scholar.google.com/) - scholar.google.com
 * [ScienceDirect (Elsevier)](https://www.sciencedirect.com/) - sciencedirect.com
@@ -8,6 +8,9 @@
 * [PQDT Open](https://pqdtopen.proquest.com/search.html) - pqdtopen.proquest.com
 * [EBSCO Open Dissertations](https://biblioboard.com/opendissertations/) - biblioboard.com
 * [EBSCO](https://www.ebsco.com/) - ebsco.com
+
+## Preprint
+* [Research Square](https://www.researchsquare.com/)
 
 ### Directories
 * [DOAJ](https://doaj.org/) - Find open access journals & articles.
