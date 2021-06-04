@@ -8,6 +8,7 @@
 * [PQDT Open](https://pqdtopen.proquest.com/search.html) - pqdtopen.proquest.com
 * [EBSCO Open Dissertations](https://biblioboard.com/opendissertations/) - biblioboard.com
 * [EBSCO](https://www.ebsco.com/) - ebsco.com
+* [Core](https://core.ac.uk/) - core.ac.uk (The world’s largest collection of open access research papers)
 
 ## Preprint
 * [Research Square](https://www.researchsquare.com/)
