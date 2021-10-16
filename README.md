@@ -19,6 +19,9 @@
 * [Berkeley Library](https://guides.lib.berkeley.edu/) - berkeley.edu
 * [List of academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields) - Wikipedia
 
+## Papers
+* [Catalogue of Papers (Waikato)](https://papers.waikato.ac.nz/) - waikato.ac.nz
+
 
 -----
 
