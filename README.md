@@ -22,6 +22,9 @@
 ## Papers
 * [Catalogue of Papers (Waikato)](https://papers.waikato.ac.nz/) - waikato.ac.nz
 
+## YouTube :tv:
+* [Grad Coach](https://www.youtube.com/c/GradCoach/featured)
+
 
 -----
 
