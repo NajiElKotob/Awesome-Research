@@ -49,6 +49,10 @@
 * [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
 * [Research methods](https://betterthesis.dk/research-methods) - betterthesis.dk
 
+### Web Evaluation
+* FART
+* CRAPP
+* RADAR
 -----
 
 ### Publishing
