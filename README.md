@@ -52,7 +52,7 @@
 ### Web Evaluation
 * FART
 * [CRAAP](https://www.uow.edu.au/student/learning-co-op/finding-and-using-information/evaluating-the-quality-of-online-information/) - uow.edu.au
-* RADAR
+* [RADAR](https://libguides.sait.ca/RADAR) - libguides.sait.ca
 -----
 
 ### Publishing
