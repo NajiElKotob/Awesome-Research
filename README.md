@@ -30,7 +30,7 @@
 
 ## Dissertation guide
 * [Getting the most from Lærd Dissertation](http://dissertation.laerd.com/getting-started.php) - Lærd Dissertation was written to help you complete your dissertation from start to finish, whether you're an undergraduate, master's or doctoral student.
-* [GSEHD Dissertation Content & Style Guide (GWU)](https://gsehd.gwu.edu/sites/default/files/documents/dissertation_content_and_style_guide.pdf) - The George Washington University 🔥
+* [GSEHD Dissertation Content & Style Guide (GWU)](https://gsehd.gwu.edu/sites/g/files/zaxdzs4166/files/2021-09/dissertation_content_and_style_guide.pdf) - The George Washington University 🔥
 * [Dissertation Guidelines (Valdosta State University)](https://www.valdosta.edu/colleges/education/ltwd/documents/DissertationGuidemod8_29_12.pdf)
 * [The Structure of the Thesis or Dissertation](http://valmikiacademy.com/lessons/the-structure-of-the-thesis-or-dissertation/)
 * [Dissertation	Guidelines for	a	Quantitative	Research Study (Marywood University)](http://www.marywood.edu/phd/forms/templates/QuantitativeDissertationGuidelines.pdf)
