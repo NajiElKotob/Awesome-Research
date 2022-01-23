@@ -10,6 +10,10 @@
 * [EBSCO](https://www.ebsco.com/) - ebsco.com
 * [Core](https://core.ac.uk/) - core.ac.uk (The world’s largest collection of open access research papers)
 
+## Research Publications
+* [Waikato (New Zealand)](https://www.waikato.ac.nz/php/research.php) - waikato.ac.nz
+
+
 ## Preprint
 * [Research Square](https://www.researchsquare.com/)
 
