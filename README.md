@@ -67,6 +67,10 @@
 ### Formats and Templates
 * [Typeset](https://typeset.io/formats/) 
 
+### Tools and Techniques
+* Spelling and Grammar
+* Readability Statistics
+
 -----
 
 ## APA Style
