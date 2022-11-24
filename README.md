@@ -72,6 +72,10 @@
 * Readability Statistics
 
 -----
+## AI Tools
+* [Explainpaper](https://www.explainpaper.com/) - xplainpaper.com | Upload a paper, highlight confusing text, get an explanation.
+
+-----
 
 ## APA Style
 * [APA Referencing: The Basics](https://www.youtube.com/watch?v=SOEmM5gmTJM) - Massey University
