@@ -74,6 +74,7 @@
 -----
 ## AI Tools
 * [Explainpaper](https://www.explainpaper.com/) - xplainpaper.com | Upload a paper, highlight confusing text, get an explanation.
+* [Rytr](https://rytr.me/) - rytr.me | Rytr is an AI writing assistant that helps you create high-quality content
 
 -----
 
