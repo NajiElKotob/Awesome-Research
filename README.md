@@ -70,6 +70,7 @@
 ### Tools and Techniques
 * Spelling and Grammar
 * Readability Statistics
+* [Meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis) - wikipedia.org
 
 -----
 ## AI Tools
