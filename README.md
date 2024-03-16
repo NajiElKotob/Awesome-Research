@@ -30,6 +30,7 @@
 
 ## YouTube :tv:
 * [Grad Coach](https://www.youtube.com/c/GradCoach/featured)
+* [How To Write A Research Paper In 3 EASY Steps: Detailed Examples + FREE Template](https://www.youtube.com/watch?v=PSO7A1ybjRE) - Grad Coach
 
 
 -----
