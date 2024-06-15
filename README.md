@@ -1,6 +1,7 @@
 # Awesome Research
 
 ## Research Methodology
+* [What Is Research Methodology? A Plain-Language Explanation & Definition (With Examples)](https://gradcoach.com/what-is-research-methodology/) - gradcoach.com
 * [What is Research Methodology? Definition, Types, and Examples](https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology) - paperpal.com
 
 ## Academic Publications and Literature
