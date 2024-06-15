@@ -1,7 +1,7 @@
 # Awesome Research
 
 ## Research Methodology
-
+* [What is Research Methodology? Definition, Types, and Examples](https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology) - paperpal.com
 
 ## Academic Publications and Literature
 * [Microsoft Academic](https://academic.microsoft.com) - academic.microsoft.com
