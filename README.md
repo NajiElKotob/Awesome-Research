@@ -1,5 +1,8 @@
 # Awesome Research
 
+## Research Methodology
+
+
 ## Academic Publications and Literature
 * [Microsoft Academic](https://academic.microsoft.com) - academic.microsoft.com
 * [Google Scholar](https://scholar.google.com/) - scholar.google.com
@@ -11,9 +14,9 @@
 * [Core](https://core.ac.uk/) - core.ac.uk (The world’s largest collection of open access research papers)
 * [Iris AI](https://iris.ai/) - iris.ai | A comprehensive platform for all your research processing
 
+
 ## Research Publications
 * [Waikato (New Zealand)](https://www.waikato.ac.nz/php/research.php) - waikato.ac.nz
-
 
 ## Preprint
 * [Research Square](https://www.researchsquare.com/)
