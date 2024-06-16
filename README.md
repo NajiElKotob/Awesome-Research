@@ -6,7 +6,7 @@
 * [What Is Research Methodology? A Plain-Language Explanation & Definition (With Examples)](https://gradcoach.com/what-is-research-methodology/) - gradcoach.com
 * [What is Research Methodology? Definition, Types, and Examples](https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology) - paperpal.com
 
-### Initial Planning
+### 1. Initial Planning
 `Initial planning is a crucial stage in the research process, as it sets the foundation for the entire study. This phase involves identifying the research problem, defining objectives, and planning the research design and methodology.`
 #### Research Problem
 #### Research Objectives
@@ -16,7 +16,7 @@
 #### Feasibility Analysis
 #### Ethical Considerations
 
-### Research Design
+### 2. Research Design
 `Research design is a framework or blueprint for conducting the research project. It outlines the procedures for every step of the research process, including data collection, measurement, and analysis. The research design ensures that the study will be able to answer the research questions or test the hypotheses in a systematic, reliable, and valid manner.`
 
 #### Type of Research
@@ -32,7 +32,14 @@
 `Cross-sectional (data collected at one point in time) or longitudinal (data collected over an extended period).`
 
 
-
+### 3. Methodological Approach
+### 4. Data Collection Methods
+### 5. Sampling Techniques
+### 6. Data Preparation
+### 7. Data Analysis
+### 8. Ensuring Validity and Reliability
+### 9. Ethical Considerations
+### 10. Reporting and Dissemination
 
 -----
 
