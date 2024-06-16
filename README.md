@@ -12,6 +12,8 @@
 #### Research Objectives
 #### Research Questions or Hypotheses
 #### Literature Review
+* [What is a Literature Review?](https://content.bridgepointeducation.com/curriculum/file/bdd26ae5-871f-489f-8d46-d47aaac1885e/1/Sample%20Literature%20Review.pdf)
+
 #### Research Design
 #### Feasibility Analysis
 #### Ethical Considerations
@@ -90,8 +92,6 @@
 * [Dissertation	Guidelines for	a	Quantitative	Research Study (Marywood University)](http://www.marywood.edu/phd/forms/templates/QuantitativeDissertationGuidelines.pdf)
 * [Writing your research paper](https://paperpile.com/guides/writing/) - paperpile.com
 
-### Literature Review
-* [What is a Literature Review?](https://content.bridgepointeducation.com/curriculum/file/bdd26ae5-871f-489f-8d46-d47aaac1885e/1/Sample%20Literature%20Review.pdf)
 
 ## The Research Onion
 * [The Layers of Research Design](https://www.academia.edu/4107831/The_Layers_of_Research_Design) (Mark Saunders and Paul Tosey)
