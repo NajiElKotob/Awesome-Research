@@ -35,6 +35,8 @@
 
 
 ### 3. Methodological Approach
+`The methodological approach outlines the overall strategy and specific methods that will be used to collect and analyze data in a research study. It details whether the study will use qualitative, quantitative, or mixed methods, and it explains the rationale behind the chosen approach. The methodological approach ensures that the research design is implemented effectively and that the data collected will be suitable for answering the research questions or testing the hypotheses.`
+
 ### 4. Data Collection Methods
 ### 5. Sampling Techniques
 ### 6. Data Preparation
