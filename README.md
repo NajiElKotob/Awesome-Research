@@ -16,6 +16,8 @@
 #### Ethical Considerations
 
 ### Research Design
+`Research design is a framework or blueprint for conducting the research project. It outlines the procedures for every step of the research process, including data collection, measurement, and analysis. The research design ensures that the study will be able to answer the research questions or test the hypotheses in a systematic, reliable, and valid manner.`
+
 #### Type of Research
 `Descriptive, correlational, experimental, or exploratory.`
 #### Variables
