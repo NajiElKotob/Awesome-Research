@@ -20,6 +20,7 @@
 
 #### Type of Research
 `Descriptive, correlational, experimental, or exploratory.`
+* [Types of research design: Choosing the right methods for your study](https://www.surveymonkey.com/mp/types-of-research-design/) - surveymonkey.com
 #### Variables
 `Identification and operationalization of independent, dependent, and control variables.`
 #### Research Setting
