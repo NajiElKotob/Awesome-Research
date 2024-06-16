@@ -47,6 +47,8 @@
 `Data preparation involves the process of cleaning, organizing, and structuring data before it is analyzed. This step ensures that the data is accurate, complete, and suitable for analysis. Effective data preparation helps in minimizing errors and biases, leading to more reliable and valid research results.`
 
 ### 7. Data Analysis
+`Data analysis involves examining, transforming, and modeling data with the goal of discovering useful information, drawing conclusions, and supporting decision-making. It includes applying various statistical, mathematical, or computational techniques to summarize, describe, and evaluate the data collected during the research.`
+
 ### 8. Ensuring Validity and Reliability
 ### 9. Ethical Considerations
 ### 10. Reporting and Dissemination
