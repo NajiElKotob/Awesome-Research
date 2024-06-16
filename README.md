@@ -40,6 +40,10 @@
 ### 8. Ensuring Validity and Reliability
 ### 9. Ethical Considerations
 ### 10. Reporting and Dissemination
+`Reporting and dissemination involve sharing the research findings with a broader audience, ensuring that the results are accessible, understandable, and useful. This includes writing research reports, presenting findings at conferences, publishing in academic journals, and using other platforms to communicate the results.`
+* [How to Publish a Research Paper](https://www.wikihow.com/Publish-a-Research-Paper)
+* [Publishing with Elsevier: step-by-step](https://www.elsevier.com/authors/submit-your-paper)
+* [SpringerOpen - Publish a journal with us](https://www.springeropen.com/about/our-publishing-partners/publish-a-journal-with-us)
 
 -----
 
@@ -104,11 +108,6 @@
 * [CRAAP](https://www.uow.edu.au/student/learning-co-op/finding-and-using-information/evaluating-the-quality-of-online-information/) - uow.edu.au
 * [RADAR](https://libguides.sait.ca/RADAR) - libguides.sait.ca
 -----
-
-### Publishing
-* [How to Publish a Research Paper](https://www.wikihow.com/Publish-a-Research-Paper)
-* [Publishing with Elsevier: step-by-step](https://www.elsevier.com/authors/submit-your-paper)
-* [SpringerOpen - Publish a journal with us](https://www.springeropen.com/about/our-publishing-partners/publish-a-journal-with-us)
 
 ### Formats and Templates
 * [Typeset](https://typeset.io/formats/) 
