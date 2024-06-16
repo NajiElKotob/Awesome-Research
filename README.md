@@ -5,6 +5,16 @@
 * [What Is Research Methodology? A Plain-Language Explanation & Definition (With Examples)](https://gradcoach.com/what-is-research-methodology/) - gradcoach.com
 * [What is Research Methodology? Definition, Types, and Examples](https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology) - paperpal.com
 
+### Initial Planning
+#### Research Problem
+#### Research Objectives
+#### Research Questions or Hypotheses
+#### Literature Review
+#### Research Design
+#### Feasibility Analysis
+#### Ethical Considerations
+
+
 ## Academic Publications and Literature
 * [Microsoft Academic](https://academic.microsoft.com) - academic.microsoft.com
 * [Google Scholar](https://scholar.google.com/) - scholar.google.com
