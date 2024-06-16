@@ -15,6 +15,20 @@
 #### Feasibility Analysis
 #### Ethical Considerations
 
+### Research Design
+#### Type of Research
+`Descriptive, correlational, experimental, or exploratory.`
+#### Variables
+`Identification and operationalization of independent, dependent, and control variables.`
+#### Research Setting
+`The context in which the research will take place (e.g., laboratory, field, online).`
+#### Data Collection Techniques
+`Methods used to gather data (e.g., surveys, interviews, observations).`
+#### Time Frame
+`Cross-sectional (data collected at one point in time) or longitudinal (data collected over an extended period).`
+
+
+
 
 -----
 
