@@ -1,5 +1,10 @@
 # Awesome Research
 
+## Research
+* [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
+* [Research methods](https://betterthesis.dk/research-methods) - betterthesis.dk
+
+
 ## Research Methodology
 `The comprehensive structure that includes all steps and considerations involved in conducting research.`
 * [What Is a Research Methodology? | Steps & Tips](https://www.scribbr.com/dissertation/methodology/) - scribbr.com
@@ -91,6 +96,8 @@
 ## Papers
 * [Catalogue of Papers (Waikato)](https://papers.waikato.ac.nz/) - waikato.ac.nz
 
+-----
+
 ## YouTube :tv:
 * [Grad Coach](https://www.youtube.com/c/GradCoach/featured)
 * [How To Write A Research Paper In 3 EASY Steps: Detailed Examples + FREE Template](https://www.youtube.com/watch?v=PSO7A1ybjRE) - Grad Coach
@@ -113,9 +120,6 @@
 * [Research Onion – Made easy to understand and follow](https://www.allassignmenthelp.co.uk/blog/research-onion-made-easy-to-understand-and-follow/) 
 * [Research Methods For Business Students (YouTube)](https://www.youtube.com/playlist?list=PLZDZwPWTxRmFHK1ak8xK1dRowlv1pm3tS) - MeanThat
 
-### Research
-* [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
-* [Research methods](https://betterthesis.dk/research-methods) - betterthesis.dk
 
 ### Web Evaluation
 * FART
