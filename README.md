@@ -8,6 +8,7 @@
 ## Research Methodology
 `The comprehensive structure that includes all steps and considerations involved in conducting research.`
 * [What Is a Research Methodology? | Steps & Tips](https://www.scribbr.com/dissertation/methodology/) - scribbr.com
+* [What is research methodology?](https://paperpile.com/g/what-is-research-methodology/) - paperpile.com
 * [What Is Research Methodology? A Plain-Language Explanation & Definition (With Examples)](https://gradcoach.com/what-is-research-methodology/) - gradcoach.com
 * [What is Research Methodology? Definition, Types, and Examples](https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology) - paperpal.com
 
