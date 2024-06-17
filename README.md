@@ -99,6 +99,7 @@
 -----
 
 ## YouTube :tv:
+* [Research Methodology 101: Simple Explainer With Examples (+ FREE Template) 23 videos](https://www.youtube.com/watch?v=TEqYnV6KWfY&list=PLvcb33xNTVUmfIpA5majoCXgLS5mFOcck)
 * [Grad Coach](https://www.youtube.com/c/GradCoach/featured)
 * [How To Write A Research Paper In 3 EASY Steps: Detailed Examples + FREE Template](https://www.youtube.com/watch?v=PSO7A1ybjRE) - Grad Coach
 
