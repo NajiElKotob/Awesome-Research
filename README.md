@@ -1,6 +1,8 @@
 # Awesome Research
 
 ## Research
+`research is a systematic inquiry to describe, explain, predict, and control the observed phenomenon. It involves inductive and deductive methods.`
+* [What is Research: Definition, Methods, Types & Examples](https://www.questionpro.com/blog/what-is-research/) - questionpro.com
 * [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
 * [Research methods](https://betterthesis.dk/research-methods) - betterthesis.dk
 * [Research Lifecycle](https://researchsupport.harvard.edu/research-lifecycle) - harvard.edu
