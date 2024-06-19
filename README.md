@@ -3,7 +3,7 @@
 ## Research
 * [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
 * [Research methods](https://betterthesis.dk/research-methods) - betterthesis.dk
-
+* [Research Lifecycle](https://researchsupport.harvard.edu/research-lifecycle) - harvard.edu
 
 ## Research Methodology
 `The comprehensive structure that includes all steps and considerations involved in conducting research.`
