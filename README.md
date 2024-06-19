@@ -31,7 +31,8 @@
 #### Research Questions or Hypotheses
 `A research question pinpoints exactly what you want to find out in your work. A good research question is essential to guide your research paper, dissertation, or thesis.`
 * [Writing Strong Research Questions | Criteria & Examples](https://www.scribbr.com/research-process/research-questions/) - scribbr.com
-
+* [Hypothesis (Research Hypothesis simply explained) 📺](https://www.youtube.com/watch?v=G4LPPS-8Co0) - DATAtab
+  
 #### Literature Review
 * [What is a Literature Review?](https://content.bridgepointeducation.com/curriculum/file/bdd26ae5-871f-489f-8d46-d47aaac1885e/1/Sample%20Literature%20Review.pdf)
 
