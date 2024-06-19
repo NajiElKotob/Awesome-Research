@@ -1,6 +1,6 @@
 # Glossary
 
-* The **research lifecycle** covers everything from the conception of a research idea through securing funding for it, building the team, partnerships or collaborators who will work on it with you, taking the project to completion and then beyond communication and dissemination to **impact**.  
+* The **research lifecycle** covers everything from the conception of a research idea through securing funding for it, building the team, partnerships or collaborators who will work on it with you, taking the project to completion and then beyond communication and dissemination to **impact**. [Learn more](https://www.southampton.ac.uk/waar/research-lifecycle/index.page)
 * In a **longitudinal study**, researchers repeatedly examine the same individuals to detect any changes that might occur over a period of time. Longitudinal studies are a type of correlational research in which researchers observe and collect data on a number of variables without trying to influence those variables. [Learn more](https://www.scribbr.com/methodology/longitudinal-study)
 * **Ethnography** is a qualitative method for collecting data often used in the social and behavioral sciences. Data are collected through observations and interviews, which are then used to draw conclusions about how societies and individuals function. [Learn more](https://research.virginia.edu/irb-sbs/ethnographic-research)
   
