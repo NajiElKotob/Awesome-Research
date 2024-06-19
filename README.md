@@ -21,6 +21,9 @@
 * [How to Define a Research Problem | Ideas & Examples](https://www.scribbr.com/research-process/research-problem/) - scribbr.com
   
 #### Research Objectives
+`Research objectives describe what your research is trying to achieve and explain why you are pursuing it. They summarize the approach and purpose of your project and help to focus your research.`
+* [Research Objectives | Definition & Examples](https://www.scribbr.com/research-process/research-objectives/) - scribbr.com
+  
 #### Research Questions or Hypotheses
 #### Literature Review
 * [What is a Literature Review?](https://content.bridgepointeducation.com/curriculum/file/bdd26ae5-871f-489f-8d46-d47aaac1885e/1/Sample%20Literature%20Review.pdf)
