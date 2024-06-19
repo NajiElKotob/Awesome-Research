@@ -23,6 +23,10 @@
 #### Research Objectives
 `Research objectives describe what your research is trying to achieve and explain why you are pursuing it. They summarize the approach and purpose of your project and help to focus your research.`
 * [Research Objectives | Definition & Examples](https://www.scribbr.com/research-process/research-objectives/) - scribbr.com
+
+`A hypothesis is a statement that can be tested by scientific research. If you want to test a relationship between two or more variables, you need to write hypotheses before you start your experiment or data collection.`
+* [How to Write a Strong Hypothesis | Steps & Examples](https://www.scribbr.com/methodology/hypothesis/) - scribbr.com
+* [6 Steps to Formulate a STRONG Hypothesis 📺](https://www.youtube.com/watch?v=PCgLjDDD4ek) - scribbr.com
   
 #### Research Questions or Hypotheses
 `A research question pinpoints exactly what you want to find out in your work. A good research question is essential to guide your research paper, dissertation, or thesis.`
