@@ -17,6 +17,9 @@
 ### 1. Initial Planning
 `Initial planning is a crucial stage in the research process, as it sets the foundation for the entire study. This phase involves identifying the research problem, defining objectives, and planning the research design and methodology.`
 #### Research Problem
+`A research problem is a specific issue or gap in existing knowledge that you aim to address in your research. You may choose to look for practical problems aimed at contributing to change, or theoretical problems aimed at expanding knowledge.`
+* [How to Define a Research Problem | Ideas & Examples](https://www.scribbr.com/research-process/research-problem/) - scribbr.com
+  
 #### Research Objectives
 #### Research Questions or Hypotheses
 #### Literature Review
