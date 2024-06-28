@@ -47,6 +47,8 @@
 
 #### Feasibility Analysis
 #### Ethical Considerations
+`Ethical considerations in research are a set of principles that guide your research designs and practices. These principles include voluntary participation, informed consent, anonymity, confidentiality, potential for harm, and results communication.` [Learn more](https://www.scribbr.com/frequently-asked-questions/what-are-ethical-considerations-in-research/#)
+
 
 ### 2. Research Design
 `Research design is a framework or blueprint for conducting the research project. It outlines the procedures for every step of the research process, including data collection, measurement, and analysis. The research design ensures that the study will be able to answer the research questions or test the hypotheses in a systematic, reliable, and valid manner.`
