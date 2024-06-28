@@ -24,15 +24,15 @@
 `Research objectives describe what your research is trying to achieve and explain why you are pursuing it. They summarize the approach and purpose of your project and help to focus your research.`
 * [Research Objectives | Definition & Examples](https://www.scribbr.com/research-process/research-objectives/) - scribbr.com
 
-`A hypothesis is a statement that can be tested by scientific research. If you want to test a relationship between two or more variables, you need to write hypotheses before you start your experiment or data collection.`
-* [How to Write a Strong Hypothesis | Steps & Examples](https://www.scribbr.com/methodology/hypothesis/) - scribbr.com
-* [6 Steps to Formulate a STRONG Hypothesis 📺](https://www.youtube.com/watch?v=PCgLjDDD4ek) - scribbr.com
+
   
 #### Research Questions or Hypotheses
-`A research question pinpoints exactly what you want to find out in your work. A good research question is essential to guide your research paper, dissertation, or thesis.`
+`A research question pinpoints exactly what you want to find out in your work. A good research question is essential to guide your research paper, dissertation, or thesis.` + `A hypothesis is a statement that can be tested by scientific research. If you want to test a relationship between two or more variables, you need to write hypotheses before you start your experiment or data collection.`
 * [Writing Strong Research Questions | Criteria & Examples](https://www.scribbr.com/research-process/research-questions/) - scribbr.com
 * [Hypothesis (Research Hypothesis simply explained) 📺](https://www.youtube.com/watch?v=G4LPPS-8Co0) - DATAtab
-  
+* [How to Write a Strong Hypothesis | Steps & Examples](https://www.scribbr.com/methodology/hypothesis/) - scribbr.com
+* [6 Steps to Formulate a STRONG Hypothesis 📺](https://www.youtube.com/watch?v=PCgLjDDD4ek) - scribbr.com
+
 #### Literature Review
 * [What is a Literature Review?](https://content.bridgepointeducation.com/curriculum/file/bdd26ae5-871f-489f-8d46-d47aaac1885e/1/Sample%20Literature%20Review.pdf)
 
