@@ -71,7 +71,8 @@
 
 ### 4. Data Collection Methods
 `Data collection methods refer to the techniques and tools used to gather information from participants or sources for the purpose of answering research questions or testing hypotheses. The choice of data collection methods depends on the research design, objectives, and the nature of the data needed.`
-
+* [How to Write a Data Collection Plan (Templates and Examples Included)](https://www.formsonfire.com/blog/data-collection-plan) - formsonfire.com
+  
 ### 5. Sampling Techniques
 `Sampling techniques are the methods used to select a subset of individuals, groups, or cases from a larger population to participate in a research study. The chosen sample should be representative of the population to ensure the generalizability of the findings. Sampling techniques are critical in determining the accuracy and reliability of the study’s results.`
 
