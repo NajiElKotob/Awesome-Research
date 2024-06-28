@@ -37,6 +37,14 @@
 * [What is a Literature Review?](https://content.bridgepointeducation.com/curriculum/file/bdd26ae5-871f-489f-8d46-d47aaac1885e/1/Sample%20Literature%20Review.pdf)
 
 #### Research Design
+* A research design is a strategy for answering your research question using empirical data. Creating a research design means making decisions about: [Learn more](https://www.scribbr.com/methodology/research-design/)
+  - Your overall research objectives and approach
+  - Whether you’ll rely on primary research or secondary research
+  - Your sampling methods or criteria for selecting subjects
+  - Your data collection methods
+  - The procedures you’ll follow to collect data
+  - Your data analysis methods
+
 #### Feasibility Analysis
 #### Ethical Considerations
 
