@@ -73,3 +73,5 @@ Stratified and cluster sampling might seem similar because both involve dividing
   - Imagine a city map divided into neighborhoods (clusters). You randomly pick a few neighborhoods and survey everyone in those selected neighborhoods or a random sample from within those neighborhoods.
 
 Understanding these differences helps in choosing the appropriate sampling method based on the research objectives, resources, and population characteristics.
+
+[Learn more](https://www.scribbr.com/methodology/sampling-methods/) - scribbr.com | Sampling Methods | Types, Techniques & Examples
