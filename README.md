@@ -75,6 +75,15 @@
   
 ### 5. Sampling Techniques
 `Sampling techniques are the methods used to select a subset of individuals, groups, or cases from a larger population to participate in a research study. The chosen sample should be representative of the population to ensure the generalizability of the findings. Sampling techniques are critical in determining the accuracy and reliability of the study’s results.` [learn more](https://www.scribbr.com/methodology/sampling-methods/)
+#### Population vs. sample
+#### Sampling frame
+#### Sample size
+#### Probability sampling methods
+##### Simple random sampling
+##### Systematic sampling
+##### Stratified sampling
+##### Cluster sampling
+
 
 ### 6. Data Preparation
 `Data preparation involves the process of cleaning, organizing, and structuring data before it is analyzed. This step ensures that the data is accurate, complete, and suitable for analysis. Effective data preparation helps in minimizing errors and biases, leading to more reliable and valid research results.`
