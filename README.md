@@ -98,6 +98,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * A sample size of 385 corresponds with a confidence level of 95% and margin of error of 5% when you have a large population (> 100,000), which is often used in research.
 * [Sample size calculator (SurveyMonkey)](https://www.surveymonkey.com/mp/sample-size-calculator/) - surveymonkey.com
 * [Sample Size Calculator (Calculator.net)](https://www.calculator.net/sample-size-calculator.html) - calculator.net
+* [Sample Size Calculator Help](https://www.abs.gov.au/websitedbs/D3310114.nsf/home/Sample+Size+Calculator+Help?OpenDocument) - abs.gov.au
 
 #### Sampling methods
 * [Probability and Non-probability sampling methods](https://github.com/NajiElKotob/Awesome-Research/blob/master/Probability%20and%20Non-probability%20sampling%20methods.md)
