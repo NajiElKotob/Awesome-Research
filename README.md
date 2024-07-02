@@ -91,6 +91,9 @@
 #### Population vs. sample
 * [Population vs. Sample | Definitions, Differences & Examples](https://www.scribbr.com/methodology/population-vs-sample/)
 #### Sampling frame
+`A sampling frame is a researcher’s list or device to specify the population of interest. It’s a group of components that a researcher can use to select a sample from the population. e.g.,
+Imagine a researcher wants to study the satisfaction levels of students at a university. The sampling frame could be the university’s enrollment database, which lists all current students. The researcher can use this list to randomly select a sample of students to survey about their satisfaction.`
+* [Sampling Frame: Definition, Examples & How to use it](https://www.questionpro.com/blog/sampling-frame/)
 #### Sample size
 #### Probability sampling methods
 ##### Simple random sampling
