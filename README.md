@@ -143,9 +143,8 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * [Berkeley Library](https://guides.lib.berkeley.edu/) - berkeley.edu
 * [List of academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields) - Wikipedia
 * [Papers With Code](https://paperswithcode.com/) - paperswithcode.com
-  
-## Papers
 * [Catalogue of Papers (Waikato)](https://www.waikato.ac.nz/int/study/papers/?page=1) - waikato.ac.nz
+* [KSA Scholar](https://ksascholar.dri.sa/) - ksascholar.dri.sa
 
 -----
 
