@@ -9,10 +9,22 @@
 
 ## Research Methodology
 `The comprehensive structure that includes all steps and considerations involved in conducting research.`
-* [What Is a Research Methodology? | Steps & Tips](https://www.scribbr.com/dissertation/methodology/) - scribbr.com
-* [What is research methodology?](https://paperpile.com/g/what-is-research-methodology/) - paperpile.com
-* [What Is Research Methodology? A Plain-Language Explanation & Definition (With Examples)](https://gradcoach.com/what-is-research-methodology/) - gradcoach.com
-* [What is Research Methodology? Definition, Types, and Examples](https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology) - paperpal.com
+* What Is a Research Methodology
+  - [What Is a Research Methodology? | Steps & Tips](https://www.scribbr.com/dissertation/methodology/) - scribbr.com
+  - [What is research methodology?](https://paperpile.com/g/what-is-research-methodology/) - paperpile.com
+  - [What Is Research Methodology? A Plain-Language Explanation & Definition (With Examples)](https://gradcoach.com/what-is-research-methodology/) - gradcoach.com
+  - [What is Research Methodology? Definition, Types, and Examples](https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology) - paperpal.com
+
+* [1. Initial Planning](#1-initial-planning)
+* [2. Research Design](#2-research-design)
+* [3. Methodological Approach](#3-methodological-approach)
+* [4. Data Collection Methods]()
+* [5. Sampling Techniques](5-sampling-techniques)
+* [6. Data Preparation](#6-data-preparation)
+* [7. Data Analysis](#7-data-analysis)
+* [8. Ensuring Validity and Reliability](#8-ensuring-validity-and-reliability)
+* [9. Ethical Considerations](#9-ethical-considerations)
+* [10. Reporting and Dissemination](#10-reporting-and-dissemination)
 
 ### 1. Initial Planning
 `Initial planning is a crucial stage in the research process, as it sets the foundation for the entire study. This phase involves identifying the research problem, defining objectives, and planning the research design and methodology.`
