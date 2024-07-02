@@ -95,8 +95,10 @@
 Imagine a researcher wants to study the satisfaction levels of students at a university. The sampling frame could be the university’s enrollment database, which lists all current students. The researcher can use this list to randomly select a sample of students to survey about their satisfaction.`
 * [Sampling Frame: Definition, Examples & How to use it](https://www.questionpro.com/blog/sampling-frame/)
 #### Sample size
+* A sample size of 385 corresponds with a confidence level of 95% and margin of error of 5% when you have a large population (> 100,000), which is often used in research.
 * [Sample size calculator (SurveyMonkey)](https://www.surveymonkey.com/mp/sample-size-calculator/) - surveymonkey.com
 * [Sample Size Calculator (Calculator.net)](https://www.calculator.net/sample-size-calculator.html) - calculator.net
+
 #### Sampling methods
 * [Probability and Non-probability sampling methods](https://github.com/NajiElKotob/Awesome-Research/blob/master/Probability%20and%20Non-probability%20sampling%20methods.md)
 * [Sampling Methods | Types, Techniques & Examples](https://www.scribbr.com/methodology/sampling-methods/) - scribbr.com
