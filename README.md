@@ -134,9 +134,6 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * [Iris AI](https://iris.ai/) - iris.ai | A comprehensive platform for all your research processing
 
 
-## Research Publications
-* [Waikato (New Zealand)](https://www.waikato.ac.nz/php/research.php) - waikato.ac.nz
-
 ## Preprint
 * [Research Square](https://www.researchsquare.com/)
 
@@ -148,7 +145,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * [Papers With Code](https://paperswithcode.com/) - paperswithcode.com
   
 ## Papers
-* [Catalogue of Papers (Waikato)](https://papers.waikato.ac.nz/) - waikato.ac.nz
+* [Catalogue of Papers (Waikato)](https://www.waikato.ac.nz/int/study/papers/?page=1) - waikato.ac.nz
 
 -----
 
