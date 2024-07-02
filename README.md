@@ -114,6 +114,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 ### 8. Ensuring Validity and Reliability
 `Validity and reliability are critical aspects of any research study, ensuring that the results are accurate and can be trusted. Validity refers to the extent to which the research measures what it intends to measure, while reliability refers to the consistency and stability of the measurement over time.`
 * [Reliability vs. Validity in Research | Difference, Types and Examples](https://www.scribbr.com/methodology/reliability-vs-validity/) - scribbr.com
+* [The Significance of Validity and Reliability in Quantitative Research](https://sago.com/en/resources/blog/the-significance-of-validity-and-reliability-in-quantitative-research/) - sago.com
 
 ### 9. Ethical Considerations
 `Ethical considerations in research involve ensuring that the study is conducted in a manner that respects the rights, dignity, and welfare of the participants. This includes obtaining informed consent, ensuring confidentiality and privacy, minimizing harm, and ensuring the integrity of the research process.`
