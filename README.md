@@ -118,6 +118,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 
 ### 9. Ethical Considerations
 `Ethical considerations in research involve ensuring that the study is conducted in a manner that respects the rights, dignity, and welfare of the participants. This includes obtaining informed consent, ensuring confidentiality and privacy, minimizing harm, and ensuring the integrity of the research process.`
+* [Ethical Considerations in Research | Types & Examples](https://www.scribbr.com/methodology/research-ethics/) - scribbr.com
 
 ### 10. Reporting and Dissemination
 `Reporting and dissemination involve sharing the research findings with a broader audience, ensuring that the results are accessible, understandable, and useful. This includes writing research reports, presenting findings at conferences, publishing in academic journals, and using other platforms to communicate the results.`
