@@ -34,6 +34,7 @@
 * [6 Steps to Formulate a STRONG Hypothesis 📺](https://www.youtube.com/watch?v=PCgLjDDD4ek) - scribbr.com
 
 #### Literature Review
+`A literature review discusses and analyses published information in a particular subject area.   Sometimes the information covers a certain time period. A literature review is more than a summary of the sources, it has an organizational pattern that combines both summary and synthesis. A summary is a recap of the important information of the source, but a synthesis is a re-organization, or a reshuffling, of that information. It might give a new interpretation of old material or combine new with old interpretations.` [Learn more](https://libguides.wustl.edu/our?p=302677)
 * [What is a Literature Review?](https://content.bridgepointeducation.com/curriculum/file/bdd26ae5-871f-489f-8d46-d47aaac1885e/1/Sample%20Literature%20Review.pdf)
 
 #### Research Design
