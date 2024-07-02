@@ -139,7 +139,6 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * [Core](https://core.ac.uk/) - core.ac.uk (The world’s largest collection of open access research papers)
 * [Iris AI](https://iris.ai/) - iris.ai | A comprehensive platform for all your research processing
 
-
 ## Preprint
 * [Research Square](https://www.researchsquare.com/)
 
@@ -152,6 +151,14 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * [Catalogue of Papers (Waikato)](https://www.waikato.ac.nz/int/study/papers/?page=1) - waikato.ac.nz
 * [KSA Scholar](https://ksascholar.dri.sa/) - ksascholar.dri.sa
 
+-----
+
+## Market research firms
+* Nielsen
+* Kantar
+* Ipsos
+
+  
 -----
 
 ## YouTube :tv:
@@ -171,13 +178,11 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * [Dissertation	Guidelines for	a	Quantitative	Research Study (Marywood University)](http://www.marywood.edu/phd/forms/templates/QuantitativeDissertationGuidelines.pdf)
 * [Writing your research paper](https://paperpile.com/guides/writing/) - paperpile.com
 
-
 ## The Research Onion
 * [The Layers of Research Design](https://www.academia.edu/4107831/The_Layers_of_Research_Design) (Mark Saunders and Paul Tosey)
 * [Research Onion Diagram (Interactive)](https://onion.derby.ac.uk/)
 * [Research Onion – Made easy to understand and follow](https://www.allassignmenthelp.co.uk/blog/research-onion-made-easy-to-understand-and-follow/) 
 * [Research Methods For Business Students (YouTube)](https://www.youtube.com/playlist?list=PLZDZwPWTxRmFHK1ak8xK1dRowlv1pm3tS) - MeanThat
-
 
 ### Web Evaluation
 * FART
