@@ -129,7 +129,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 -----
 
 ## Academic Publications and Literature
-* [Microsoft Academic](https://academic.microsoft.com) - academic.microsoft.com
+* [Microsoft Academic](https://www.microsoft.com/en-us/research/project/academic/publications/) - academic.microsoft.com
 * [Google Scholar](https://scholar.google.com/) - scholar.google.com
 * [ScienceDirect (Elsevier)](https://www.sciencedirect.com/) - sciencedirect.com
 * [Academia](https://www.academia.edu/) - academia.edu
