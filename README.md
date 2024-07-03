@@ -128,7 +128,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 
 -----
 
-## Academic Publications and Literature
+## Academic Publications, Literatures and Directories
 * [Microsoft Academic](https://www.microsoft.com/en-us/research/project/academic/publications/) - academic.microsoft.com
 * [Google Scholar](https://scholar.google.com/) - scholar.google.com
 * [ScienceDirect (Elsevier)](https://www.sciencedirect.com/) - sciencedirect.com
@@ -138,11 +138,6 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * [EBSCO](https://www.ebsco.com/) - ebsco.com
 * [Core](https://core.ac.uk/) - core.ac.uk (The world’s largest collection of open access research papers)
 * [Iris AI](https://iris.ai/) - iris.ai | A comprehensive platform for all your research processing
-
-## Preprint
-* [Research Square](https://www.researchsquare.com/)
-
-## Directories
 * [DOAJ](https://doaj.org/) - Find open access journals & articles.
 * [Journals Directory](https://www.journalsdirectory.com/)
 * [Berkeley Library](https://guides.lib.berkeley.edu/) - berkeley.edu
