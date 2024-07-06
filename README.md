@@ -129,6 +129,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 -----
 
 ## Academic Publications, Literatures and Directories
+* [arXiv](https://arxiv.org/) - arxiv.org | arXiv is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. 
 * [Microsoft Academic](https://www.microsoft.com/en-us/research/project/academic/publications/) - academic.microsoft.com
 * [Google Scholar](https://scholar.google.com/) - scholar.google.com
 * [ScienceDirect (Elsevier)](https://www.sciencedirect.com/) - sciencedirect.com
