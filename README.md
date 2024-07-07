@@ -71,6 +71,9 @@
 * [Types of research design: Choosing the right methods for your study](https://www.surveymonkey.com/mp/types-of-research-design/) - surveymonkey.com
 #### Variables
 `Identification and operationalization of independent, dependent, and control variables.`
+* [Research Variables 101: Dependent, Independent, Control Variables & More (With Examples)](https://www.youtube.com/watch?v=BfPVFbvr-3U) - Grad Coach
+
+  
 #### Research Setting
 `The context in which the research will take place (e.g., laboratory, field, online).`
 #### Data Collection Techniques
