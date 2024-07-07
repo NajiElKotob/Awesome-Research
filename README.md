@@ -72,7 +72,7 @@
 #### Variables
 `Identification and operationalization of independent, dependent, and control variables.`
 * [Research Variables 101: Dependent, Independent, Control Variables & More (With Examples)](https://www.youtube.com/watch?v=BfPVFbvr-3U) - Grad Coach
-
+* [Variables in Science: Independent, Dependent and Controlled!](https://www.youtube.com/watch?v=J9kCgWAuB0Y) - BioMan Biology
   
 #### Research Setting
 `The context in which the research will take place (e.g., laboratory, field, online).`
