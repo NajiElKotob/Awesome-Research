@@ -120,6 +120,8 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 
 ### 7. Data Analysis
 `Data analysis involves examining, transforming, and modeling data with the goal of discovering useful information, drawing conclusions, and supporting decision-making. It includes applying various statistical, mathematical, or computational techniques to summarize, describe, and evaluate the data collected during the research.`
+* [Power BI (Awesome References)](https://github.com/NajiElKotob/Awesome-Power-BI)
+* [Statistics for Data Science (Awesome References)](https://github.com/NajiElKotob/Awesome-Statistics-For-Data-Science)
 
 ### 8. Ensuring Validity and Reliability
 `Validity and reliability are critical aspects of any research study, ensuring that the results are accurate and can be trusted. Validity refers to the extent to which the research measures what it intends to measure, while reliability refers to the consistency and stability of the measurement over time.`
