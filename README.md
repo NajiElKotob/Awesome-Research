@@ -73,7 +73,13 @@
 `Identification and operationalization of independent, dependent, and control variables.`
 * [Research Variables 101: Dependent, Independent, Control Variables & More (With Examples)](https://www.youtube.com/watch?v=BfPVFbvr-3U) - Grad Coach
 * [Variables in Science: Independent, Dependent and Controlled!](https://www.youtube.com/watch?v=J9kCgWAuB0Y) - BioMan Biology
-  
+* Types of Variables
+  - Independent (aka Explanatory, Explainer, Predictor)
+  - Dependent (aka Response, Outcome)
+  - Control (aka Constant)
+  - Moderating
+  - Mediating 
+  - Confounding 
 #### Research Setting
 `The context in which the research will take place (e.g., laboratory, field, online).`
 #### Data Collection Techniques
