@@ -166,6 +166,9 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 * Kantar
 * Ipsos
 
+## References and Resources
+* [World Economic Forum (Intelligence)](https://intelligence.weforum.org/topics) - weforum.org
+* [Shareables](https://www.weforum.org/publications/global-risks-report-2024/shareables-e366ac1455/) - weforum.org
   
 -----
 
