@@ -1,4 +1,10 @@
 # Glossary
+* Confidence Level
+* Population Size
+* Sample Size
+* Confidence Interval
+* Standard Error
+* Relative Standard Error (RSE)
 * **Sampling proportion** refers to the practice of selecting a subset of individuals or items from a larger population to estimate the proportion of a specific characteristic within the entire population. It involves randomly selecting samples to represent the population accurately, ensuring statistical validity in studies or surveys. For example, if you're studying the proportion of people who prefer a certain brand of coffee, you might sample a group of individuals and analyze what proportion of them favor that brand.
 * The **central limit theorem** says that the sampling distribution of the mean will always be normally distributed, as long as the sample size is large enough. Regardless of whether the population has a normal, Poisson, binomial, or any other distribution, the sampling distribution of the mean will be normal. [Learn more](https://www.scribbr.com/statistics/central-limit-theorem/).
   -  The more sample we take, the closer the mean of our sample means will bet to the population mean.
