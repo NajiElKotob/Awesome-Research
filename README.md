@@ -218,6 +218,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 -----
 
 ## APA Style
+* [Cite This For Me](https://www.citethisforme.com/) - citethisforme.com | Create Harvard, APA & MLA citations (powered by Chegg)
 * [APA Referencing: The Basics 📺](https://www.youtube.com/watch?v=SOEmM5gmTJM) - Massey University
 * [Easy Formatting for APA Style 7th Edition](https://www.youtube.com/playlist?list=PLjBMY3HggCpDGOYJg-4LVaDMJvNSv7B9o) - Scribbr
 * [Reporting a multiple linear regression in APA](https://www.slideshare.net/plummer48/reporting-a-multiple-linear-regression-in-apa)
