@@ -213,7 +213,7 @@ Imagine a researcher wants to study the satisfaction levels of students at a uni
 -----
 ## AI Tools
 * [Awesome AI Apps](https://github.com/NajiElKotob/Awesome-AI-Apps)
-
+* PaperTalker
 
 -----
 
